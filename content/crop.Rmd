@@ -5,7 +5,7 @@ date: "6/21/2018"
 output: html_document
 ---
 
-Here is the [homework](/Users/jialiu/Desktop/find a job/bdowm/public/post/2015-07-23-r-rmarkdown_files/figure-html).
+Here is the [homework](../public/post/2015-07-23-r-rmarkdown_files/figure-html).
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
